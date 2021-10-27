@@ -13,5 +13,4 @@
 http://www.gilbut.co.kr/</br>
 • 길벗출판사 깃허브</br>
 https://github.com/gilbutITbook/080250</br>
-• 저자 깃허브</br>
-https://github.com/asedunov/kotlin-in-depth</br>
+
