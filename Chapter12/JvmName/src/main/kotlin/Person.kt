@@ -1,0 +1,1 @@
+class Person(val firstName: String, val familyName: String)
